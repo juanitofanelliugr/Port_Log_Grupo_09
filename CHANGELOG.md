@@ -1,5 +1,10 @@
 # CHANGELOG
 
+[Ejercicio 5]
+
+- Se generaron gráficos de top infractores, turnos, meses, distribución de exceso, exceso por muelle y fechas inválidas.
+- Se exportaron los gráficos en la carpeta plots.
+
 [Ejercicio 4]
 
 - Se definió la clase PortAnalyzer para analizar el DataFrame limpio.
