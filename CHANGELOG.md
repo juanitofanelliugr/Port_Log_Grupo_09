@@ -2,6 +2,16 @@
 
 [Ejercicio 5]
 
+- Se graficaron las 10 matrículas con más infracciones.
+- Se graficó la distribución de infracciones por turno del día.
+- Se graficó el total de infracciones por mes.
+- Se generó el histograma del exceso de velocidad real con curva KDE.
+- Se graficó el exceso de velocidad promedio por muelle.
+- Se compararon las infracciones con fecha válida e inválida.
+- Se exportaron los gráficos en data/interim/plots.
+
+[Ejercicio 5]
+
 - Se generaron gráficos de top infractores, turnos, meses, distribución de exceso, exceso por muelle y fechas inválidas.
 - Se exportaron los gráficos en la carpeta plots.
 
