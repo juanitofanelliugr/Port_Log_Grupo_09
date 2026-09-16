@@ -1,5 +1,13 @@
 # CHANGELOG
 
+[Ejercicio 4]
+
+- Se definió la clase PortAnalyzer para analizar el DataFrame limpio.
+- Se implementó el ranking de matrículas con más infracciones.
+- Se agruparon las infracciones por turno, muelle y tipo de carga.
+- Se calcularon los excesos de velocidad promedio real y con tolerancia.
+- Se creó un objeto PortAnalyzer y se invocaron sus métodos en celdas separadas.
+
 [Ejercicio 3]
 
 - Se normalizaron las fechas y horas de ingreso y egreso.
