@@ -1,5 +1,17 @@
 # CHANGELOG
 
+[Ejercicio 3]
+
+- Se normalizaron las fechas y horas de ingreso y egreso.
+- Se calculó la duración de cada movimiento portuario.
+- Se normalizaron las matrículas y los muelles.
+- Se eliminaron registros con datos nulos en columnas críticas.
+- Se detectaron y eliminaron outliers mediante el método IQR.
+- Se calcularon los excesos de velocidad reales y con 5% de tolerancia.
+- Se conservaron únicamente los movimientos con infracción de velocidad.
+- Se generó el dataset limpio en data/interim.
+- Se exportó el resumen estadístico del Sprint 1 en reports.
+
 [Ejercicio 2]
 
 - Se descargó y almacenó el dataset raw.
