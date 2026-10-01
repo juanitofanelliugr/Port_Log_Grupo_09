@@ -1,5 +1,9 @@
 # CHANGELOG
 
+[Ejercicio 6]
+
+- Se respondieron las preguntas de negocio calculando porcentajes de error, cargas frecuentes y duración de estadía.
+
 [Ejercicio 5]
 
 - Se graficaron las 10 matrículas con más infracciones.
