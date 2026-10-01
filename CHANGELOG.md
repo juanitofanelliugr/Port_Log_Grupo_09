@@ -1,5 +1,9 @@
 # CHANGELOG
 
+[Ejercicio 7]
+
+- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
+
 [Ejercicio 6]
 
 - Se respondieron las preguntas de negocio calculando porcentajes de error, cargas frecuentes y duración de estadía.
