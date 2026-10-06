@@ -36,7 +36,7 @@
 - Se incorporaron la imagen, matrícula detectada, ratio de coincidencia y grupo de imagen.
 - Se generó port_log/data/processed/port_movements_image.csv con los matches encontrados.
 
-[Ejercicio 3]
+[Ejercicio 3 - Sprint 2]
 
 - Se convirtieron las imágenes originales a escala de grises.
 - Se aplicó ecualización de histograma para mejorar el contraste.
