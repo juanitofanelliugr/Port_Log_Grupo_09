@@ -1,5 +1,13 @@
 # CHANGELOG
 
+[Ejercicio 5]
+
+- Se calcularon las infracciones con y sin imagen asociada.
+- Se contabilizaron las imágenes que no obtuvieron match.
+- Se calculó el ratio promedio de coincidencia de los matches encontrados.
+- Se comparó la tasa de match entre los grupos plates y completes.
+- Se calcularon las infracciones en estado PENDIENTE sin evidencia visual.
+
 [Ejercicio 4]
 
 - Se extrajeron las matrículas de las imágenes mediante OCR con EasyOCR.
