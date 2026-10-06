@@ -1,5 +1,13 @@
 # CHANGELOG
 
+[Ejercicio 2 - Sprint 2]
+
+- Se realizó el análisis inicial del dataset de imágenes.
+- Se separaron las imágenes en los grupos plates y completes.
+- Se generó el archivo group_images.json con la información de las imágenes.
+- Se calcularon la resolución, el área y el tamaño promedio de cada grupo.
+- Se implementó una función para visualizar muestras aleatorias de ambos grupos.
+
 [Ejercicio 1 - Sprint 2]
 
 - Se creó la rama Sprint_2 a partir de Sprint_1.
