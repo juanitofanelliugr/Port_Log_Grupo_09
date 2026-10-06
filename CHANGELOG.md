@@ -1,6 +1,6 @@
 # CHANGELOG
 
-[Ejercicio 6]
+[Ejercicio 6 - Sprint 2]
 
 - Se analizó el porcentaje de infracciones que pudo validarse visualmente.
 - Se comparó la utilidad de los grupos plates y completes para el OCR.
