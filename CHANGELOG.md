@@ -30,7 +30,7 @@
 - Se realizó la detección de bordes mediante Canny.
 - Se generaron y visualizaron los resultados para plates y completes.
 
-[Ejercicio 2]
+[Ejercicio 2 - Sprint 2]
 
 - Se realizó el análisis inicial del dataset de imágenes.
 - Se separaron las imágenes en los grupos plates y completes.
