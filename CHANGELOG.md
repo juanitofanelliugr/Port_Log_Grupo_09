@@ -15,7 +15,7 @@
 - Se comparó la tasa de match entre los grupos plates y completes.
 - Se calcularon las infracciones en estado PENDIENTE sin evidencia visual.
 
-[Ejercicio 4]
+[Ejercicio 4 - Sprint 2]
 
 - Se extrajeron las matrículas de las imágenes mediante OCR con EasyOCR.
 - Se realizó el matching con las matrículas del dataset utilizando un umbral de coincidencia del 75%.
