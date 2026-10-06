@@ -1,5 +1,12 @@
 # CHANGELOG
 
+[Ejercicio 4]
+
+- Se extrajeron las matrículas de las imágenes mediante OCR con EasyOCR.
+- Se realizó el matching con las matrículas del dataset utilizando un umbral de coincidencia del 75%.
+- Se incorporaron la imagen, matrícula detectada, ratio de coincidencia y grupo de imagen.
+- Se generó port_log/data/processed/port_movements_image.csv con los matches encontrados.
+
 [Ejercicio 3]
 
 - Se convirtieron las imágenes originales a escala de grises.
