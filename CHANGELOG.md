@@ -1,5 +1,11 @@
 # CHANGELOG
 
+[Ejercicio 1]
+
+- Se creó la rama Sprint_2 a partir de Sprint_1.
+- Se descargó y almacenó el dataset de imágenes en port_log/data/raw/imgs.
+- Se verificó el acceso a los archivos generados durante el Sprint 1.
+
 [Ejercicio 7]
 
 - Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
