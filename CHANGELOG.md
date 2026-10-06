@@ -1,5 +1,12 @@
 # CHANGELOG
 
+[Ejercicio 6]
+
+- Se analizó el porcentaje de infracciones que pudo validarse visualmente.
+- Se comparó la utilidad de los grupos plates y completes para el OCR.
+- Se analizaron las condiciones de captura que afectaron el matching.
+- Se propusieron mejoras para la captura de imágenes y el algoritmo de matching.
+
 [Ejercicio 5]
 
 - Se calcularon las infracciones con y sin imagen asociada.
