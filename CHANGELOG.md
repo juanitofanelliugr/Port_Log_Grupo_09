@@ -1,5 +1,13 @@
 # CHANGELOG
 
+[Ejercicio 3]
+
+- Se convirtieron las imágenes originales a escala de grises.
+- Se aplicó ecualización de histograma para mejorar el contraste.
+- Se aplicó suavizado mediante blur gaussiano.
+- Se realizó la detección de bordes mediante Canny.
+- Se generaron y visualizaron los resultados para plates y completes.
+
 [Ejercicio 2]
 
 - Se realizó el análisis inicial del dataset de imágenes.
