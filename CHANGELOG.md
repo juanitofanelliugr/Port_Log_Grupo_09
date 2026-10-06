@@ -7,7 +7,7 @@
 - Se analizaron las condiciones de captura que afectaron el matching.
 - Se propusieron mejoras para la captura de imágenes y el algoritmo de matching.
 
-[Ejercicio 5]
+[Ejercicio 5 - Sprint 2]
 
 - Se calcularon las infracciones con y sin imagen asociada.
 - Se contabilizaron las imágenes que no obtuvieron match.
