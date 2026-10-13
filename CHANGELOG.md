@@ -1,5 +1,15 @@
 # CHANGELOG
 
+[Ejercicio 3 - Día 2]
+
+- Se procesaron las imágenes de los grupos plates y completes.
+- Se convirtieron las imágenes a escala de grises utilizando OpenCV.
+- Se aplicó ecualización de histogramas para mejorar el contraste.
+- Se realizó un suavizado gaussiano para reducir el ruido.
+- Se aplicó el detector de bordes Canny sobre las imágenes suavizadas.
+- Se guardaron las imágenes procesadas en las carpetas correspondientes dentro de data/interim/imgs.
+- Se reemplazó el uso de PIL por OpenCV según las correcciones del docente.
+
 [Ejercicio 2 - Día 2]
 
 - Se clasificaron las 100 imágenes del dataset en los grupos plates y completes.
