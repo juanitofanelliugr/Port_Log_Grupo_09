@@ -1,8 +1,7 @@
 # CHANGELOG
 
-## Sprint 2 - Día 1: Preparación del entorno
+[Ejercicio 1 - Día 2]
 
-### Ejercicio 01
 - Se creó la rama Sprint_2 a partir de Sprint_1.
 - Se descargaron y organizaron 100 imágenes en data/raw/imgs.
 - Se verificó la disponibilidad de los archivos CSV.
