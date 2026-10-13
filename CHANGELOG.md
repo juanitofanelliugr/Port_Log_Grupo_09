@@ -1,5 +1,13 @@
 # CHANGELOG
 
+[Ejercicio 2 - Día 2]
+
+- Se clasificaron las 100 imágenes del dataset en los grupos plates y completes.
+- Se utilizó el nombre de los archivos para identificar cada tipo de imagen.
+- Se construyó el diccionario group_images con los datos principales de las imágenes.
+- Se registraron el nombre, ancho, alto, área, ruta y matrícula de cada imagen.
+- Se guardó la información en port_log/data/interim/group_images.json.
+
 [Ejercicio 1 - Día 2]
 
 - Se creó la rama Sprint_2 a partir de Sprint_1.
@@ -9,6 +17,30 @@
 - Se actualizó el README con la descripción del Sprint 2.
 
 
+
+[Ejercicio 7]
+
+- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
+
+[Ejercicio 7]
+
+- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
+
+[Ejercicio 7]
+
+- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
+
+[Ejercicio 7]
+
+- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
+
+[Ejercicio 7]
+
+- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
+
+[Ejercicio 7]
+
+- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
 
 [Ejercicio 7]
 
