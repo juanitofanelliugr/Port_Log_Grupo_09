@@ -1,3 +1,5 @@
+# CHANGELOG
+
 ## Sprint 2 - Día 1: Preparación del entorno
 
 ### Ejercicio 01
@@ -7,7 +9,7 @@
 - Se comprobaron 1500 registros raw, 447 interim y 8 summary.
 - Se actualizó el README con la descripción del Sprint 2.
 
-# CHANGELOG
+
 
 [Ejercicio 7]
 
