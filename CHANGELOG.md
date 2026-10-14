@@ -1,5 +1,16 @@
 # CHANGELOG
 
+[Ejercicio 5 - Día 2]
+
+- Se analizaron las infracciones de velocidad con y sin imágenes asociadas.
+- Se identificaron 414 infracciones vinculadas a matrículas con imágenes disponibles y 33 sin imágenes asociadas.
+- Se calcularon las infracciones pendientes sin imágenes asociadas, obteniendo un total de 6.
+- Se contabilizaron 95 imágenes con match y 5 sin coincidencia.
+- Se calculó el ratio promedio de similitud de las imágenes coincidentes.
+- Se compararon las tasas de matching entre los grupos plates y completes.
+- Se corrigió el conteo de imágenes para evitar duplicaciones por matrícula.
+- Se diferenció la asociación de imágenes a buques de la evidencia visual de una infracción específica.
+
 [Ejercicio 4 - Día 2]
 
 - Se implementó la extracción automática de matrículas mediante EasyOCR.
