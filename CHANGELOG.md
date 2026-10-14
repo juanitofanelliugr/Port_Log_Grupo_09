@@ -1,33 +1,4 @@
-[Ejercicio 1 - Día 2]
-
-- Se creó la rama Sprint_2 a partir de Sprint_1.
-- Se descargaron y organizaron 100 imágenes en data/raw/imgs.
-- Se verificó la disponibilidad de los archivos CSV.
-- Se comprobaron 1500 registros raw, 447 interim y 8 summary.
-- Se actualizó el README con la descripción del Sprint 2.
-
 # CHANGELOG
-
-[Ejercicio 6 - Día 2]
-
-- Se analizaron los resultados del OCR y del matching de matrículas.
-- Se identificó que 414 de las 447 infracciones corresponden a buques con imágenes asociadas a su matrícula.
-- Se aclaró que la asociación por matrícula no permite validar visualmente una infracción individual.
-- Se compararon las tasas de coincidencia de los grupos plates y completes.
-- Se analizaron las posibles dificultades del OCR relacionadas con iluminación, desenfoque y distancia.
-- Se propusieron mejoras en la captura de imágenes, el preprocesamiento y el algoritmo de matching.
-- Se destacó la importancia de registrar el movimiento_id, la fecha y la hora para vincular imágenes con movimientos específicos.
-
-[Ejercicio 5 - Día 2]
-
-- Se analizaron las infracciones de velocidad con y sin imágenes asociadas.
-- Se identificaron 414 infracciones vinculadas a matrículas con imágenes disponibles y 33 sin imágenes asociadas.
-- Se calcularon las infracciones pendientes sin imágenes asociadas, obteniendo un total de 6.
-- Se contabilizaron 95 imágenes con match y 5 sin coincidencia.
-- Se calculó el ratio promedio de similitud de las imágenes coincidentes.
-- Se compararon las tasas de matching entre los grupos plates y completes.
-- Se corrigió el conteo de imágenes para evitar duplicaciones por matrícula.
-- Se diferenció la asociación de imágenes a buques de la evidencia visual de una infracción específica.
 
 [Ejercicio 4 - Día 2]
 
