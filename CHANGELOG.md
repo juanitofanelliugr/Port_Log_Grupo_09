@@ -1,5 +1,15 @@
 # CHANGELOG
 
+[Ejercicio 6 - Día 2]
+
+- Se analizaron los resultados del OCR y del matching de matrículas.
+- Se identificó que 414 de las 447 infracciones corresponden a buques con imágenes asociadas a su matrícula.
+- Se aclaró que la asociación por matrícula no permite validar visualmente una infracción individual.
+- Se compararon las tasas de coincidencia de los grupos plates y completes.
+- Se analizaron las posibles dificultades del OCR relacionadas con iluminación, desenfoque y distancia.
+- Se propusieron mejoras en la captura de imágenes, el preprocesamiento y el algoritmo de matching.
+- Se destacó la importancia de registrar el movimiento_id, la fecha y la hora para vincular imágenes con movimientos específicos.
+
 [Ejercicio 5 - Día 2]
 
 - Se analizaron las infracciones de velocidad con y sin imágenes asociadas.
