@@ -1,11 +1,3 @@
-[Ejercicio 1 - Día 2]
-
-- Se creó la rama Sprint_2 a partir de Sprint_1.
-- Se descargaron y organizaron 100 imágenes en data/raw/imgs.
-- Se verificó la disponibilidad de los archivos CSV.
-- Se comprobaron 1500 registros raw, 447 interim y 8 summary.
-- Se actualizó el README con la descripción del Sprint 2.
-
 # CHANGELOG
 
 [Ejercicio 3 - Día 2]
@@ -34,35 +26,7 @@
 - Se comprobaron 1500 registros raw, 447 interim y 8 summary.
 - Se actualizó el README con la descripción del Sprint 2.
 
-
-
-[Ejercicio 7]
-
-- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
-
-[Ejercicio 7]
-
-- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
-
-[Ejercicio 7]
-
-- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
-
-[Ejercicio 7]
-
-- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
-
-[Ejercicio 7]
-
-- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
-
-[Ejercicio 7]
-
-- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
-
-[Ejercicio 7]
-
-- Se realizó la conclusión sobre la calidad de los datos, los patrones de infracción, el impacto de la falta de limpieza y las propuestas de mejora.
+# CHANGELOG
 
 [Ejercicio 7]
 
