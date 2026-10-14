@@ -1,5 +1,18 @@
 # CHANGELOG
 
+[Ejercicio 4 - Día 2]
+
+- Se implementó la extracción automática de matrículas de las imágenes mediante EasyOCR.
+- Se optimizó la lectura OCR para cargar el modelo una sola vez.
+- Se normalizaron las matrículas y se calculó su porcentaje de similitud mediante SequenceMatcher.
+- Se realizó el matching entre las matrículas detectadas y las matrículas únicas del dataset.
+- Se utilizó un umbral mínimo del 75% para considerar una coincidencia.
+- Se identificaron 95 imágenes con coincidencia, correspondientes a 19 matrículas diferentes.
+- Se corrigió la asociación para evitar asignar imágenes arbitrariamente a movimientos individuales.
+- Se actualizó group_images.json con las matrículas detectadas y los resultados del matching.
+- Se generó port_movements_image.csv conservando los 447 movimientos originales.
+- Se conservaron los movimientos sin imágenes asociadas.
+
 [Ejercicio 3 - Día 2]
 
 - Se procesaron las imágenes de los grupos plates y completes.
@@ -7,7 +20,7 @@
 - Se aplicó ecualización de histogramas para mejorar el contraste.
 - Se realizó un suavizado gaussiano para reducir el ruido.
 - Se aplicó el detector de bordes Canny sobre las imágenes suavizadas.
-- Se guardaron las imágenes procesadas en las carpetas correspondientes dentro de data/interim/imgs.
+- Se guardaron las imágenes procesadas en data/interim/imgs.
 - Se reemplazó el uso de PIL por OpenCV según las correcciones del docente.
 
 [Ejercicio 2 - Día 2]
@@ -25,8 +38,6 @@
 - Se verificó la disponibilidad de los archivos CSV.
 - Se comprobaron 1500 registros raw, 447 interim y 8 summary.
 - Se actualizó el README con la descripción del Sprint 2.
-
-# CHANGELOG
 
 [Ejercicio 7]
 
