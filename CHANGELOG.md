@@ -1,3 +1,15 @@
+## Sprint 3
+
+### Día 1 - Inicio del Sprint 3
+
+- Creación de la rama `Sprint_3` desde `Sprint_2`.
+- Configuración del entorno de trabajo en Google Colab.
+- Verificación de la conexión con GitHub.
+- Instalación y configuración inicial de DVC.
+- Verificación de los cuatro datasets anteriores.
+- Comprobación de registros y fechas de modificación.
+- Actualización de README y CHANGELOG.
+
 # CHANGELOG
 
 [Ejercicio 6 - Día 2]

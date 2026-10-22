@@ -25,3 +25,22 @@ Las actividades incluyen:
 
 Los datos utilizados se encuentran en las carpetas
 `port_log/data/raw/` y `port_log/data/interim/`.
+
+
+## Sprint 3
+
+### Objetivo
+Continuar el desarrollo del proyecto Port Log a partir de los resultados obtenidos en los Sprints 1 y 2.
+
+### Inicio del Sprint
+Se creó la rama `Sprint_3` a partir de `Sprint_2`, conservando los archivos y resultados anteriores.
+
+### Verificación inicial
+Se comprobó la disponibilidad de los siguientes archivos:
+
+- `data/interim/port_movements.csv`: 447 registros.
+- `data/processed/port_movements_image.csv`: 447 registros.
+- `data/interim/group_images.json`: 2 elementos principales.
+- `reports/summary_sprint1.csv`: 8 registros.
+
+También se verificaron las fechas de última modificación de cada archivo.
