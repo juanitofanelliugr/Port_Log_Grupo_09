@@ -26,21 +26,29 @@ Las actividades incluyen:
 Los datos utilizados se encuentran en las carpetas
 `port_log/data/raw/` y `port_log/data/interim/`.
 
-
-## Sprint 3
+## Sprint 3: Versionado y almacenamiento de datos
 
 ### Objetivo
-Continuar el desarrollo del proyecto Port Log a partir de los resultados obtenidos en los Sprints 1 y 2.
+Implementar herramientas de versionado y almacenamiento para mejorar
+la organización, trazabilidad y reproducibilidad de los datos del proyecto.
 
-### Inicio del Sprint
-Se creó la rama `Sprint_3` a partir de `Sprint_2`, conservando los archivos y resultados anteriores.
+### Introducción y contexto
+En los sprints anteriores se trabajó con registros de movimientos
+portuarios e imágenes asociadas, realizando tareas de limpieza,
+procesamiento y vinculación de información.
 
-### Verificación inicial
-Se comprobó la disponibilidad de los siguientes archivos:
+En este sprint se incorporan DVC y Supabase Storage para gestionar
+los datasets, imágenes y gráficos del proyecto, separando el
+versionado del código del almacenamiento de los datos.
 
-- `data/interim/port_movements.csv`: 447 registros.
-- `data/processed/port_movements_image.csv`: 447 registros.
-- `data/interim/group_images.json`: 2 elementos principales.
-- `reports/summary_sprint1.csv`: 8 registros.
+### Herramientas utilizadas
+- **Python y Google Colab:** desarrollo del proyecto.
+- **Git y GitHub:** control de versiones del código.
+- **DVC:** versionado y seguimiento de datos.
+- **Supabase Storage (S3):** almacenamiento remoto.
 
-También se verificaron las fechas de última modificación de cada archivo.
+### Actividades principales
+- Configuración de DVC y Supabase.
+- Versionado de imágenes, gráficos y datasets procesados.
+- Sincronización de archivos con el almacenamiento remoto.
+- Documentación de los avances del sprint.
