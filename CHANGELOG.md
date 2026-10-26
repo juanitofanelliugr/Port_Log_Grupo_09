@@ -1,3 +1,7 @@
+[Ejercicio 2]
+
+- Migración de las imágenes de `port_log/data/raw/imgs` a DVC.
+
 ## Sprint 3
 
 ### Día 1 - Inicio del Sprint 3
