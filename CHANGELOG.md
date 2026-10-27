@@ -1,11 +1,11 @@
-### Ejercicio 03 - Modelo lógico de datos
+## Sprint 3
+
+### Día 3 - Modelo lógico de datos
 
 - Diseño del modelo lógico de Buque, Movimiento, Radar y Evidencia.
 - Definición de atributos, claves primarias, claves foráneas y cardinalidades.
 - Consideración del radar móvil, que puede registrar movimientos en distintos muelles.
 - Representación del muelle como atributo de Movimiento.
-
-## Sprint 3
 
 ### Día 2 - Migración de imágenes a DVC
 
