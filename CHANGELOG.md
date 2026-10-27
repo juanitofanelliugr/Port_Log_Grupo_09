@@ -1,5 +1,18 @@
 ## Sprint 3
 
+### Día 5 - Creación y población de la base de datos
+
+- Se creó la base de datos `transito_portuario` utilizando SQLite y SQLAlchemy.
+- Se generaron automáticamente las tablas Buques, Radares, Movimientos y Evidencias.
+- Se migraron los datos desde `port_log/data/processed/port_movements_image.csv` utilizando `procesar_fila_csv`.
+- Se implementó un control para evitar registros duplicados.
+- Se validaron los registros insertados:
+  - Buques: 40.
+  - Radares: 9.
+  - Movimientos: 447.
+  - Evidencias: 414.
+
+
 ### Día 4 - Implementación del modelo relacional
 
 - Implementación de Buque, Movimiento, Radar y Evidencia con SQLAlchemy.
