@@ -1,5 +1,14 @@
 ## Sprint 3
 
+### Día 2 - Migración de imágenes a DVC
+
+- Migración de 100 imágenes de `port_log/data/raw/imgs` a DVC.
+- Creación del archivo de seguimiento `imgs.dvc`.
+- Configuración de Supabase S3 como almacenamiento remoto.
+- Sincronización de imágenes mediante DVC.
+
+
+
 ### Día 9 - Conclusión integradora de los tres sprints
 
 - Se realizó una conclusión general del sistema desarrollado durante los tres sprints.
@@ -79,15 +88,6 @@
 - Definición de atributos, claves primarias, claves foráneas y cardinalidades.
 - Consideración del radar móvil, que puede registrar movimientos en distintos muelles.
 - Representación del muelle como atributo de Movimiento.
-
-### Día 2 - Migración de imágenes a DVC
-
-- Migración de 100 imágenes de `port_log/data/raw/imgs` a DVC.
-- Creación del archivo de seguimiento `imgs.dvc`.
-- Configuración de Supabase S3 como almacenamiento remoto.
-- Sincronización de imágenes mediante DVC.
-
-
 
 ### Día 1 - Inicio del Sprint 3
 
