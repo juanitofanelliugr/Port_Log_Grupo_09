@@ -1,5 +1,20 @@
 ## Sprint 3
 
+### Día 6 - Consultas SQLAlchemy
+
+- Se implementaron consultas SQLAlchemy sobre la base de datos transito_portuario.
+- Se incorporó el atributo exceso_velocidad al modelo Movimiento.
+- Se actualizaron los valores de exceso de velocidad desde el CSV.
+- Se realizaron las siguientes consultas:
+  - Top 10 buques con mayor cantidad de infracciones.
+  - Top 10 movimientos más recientes sin evidencia.
+  - Radares más activos y cantidad de muelles distintos.
+  - Top 10 buques reincidentes durante 2024.
+  - Promedio de exceso de velocidad por muelle.
+  - Porcentaje de infracciones con imagen asociada.
+- Se obtuvo una cobertura de evidencia del 92,62% (414 de 447 infracciones).
+
+
 ### Día 5 - Creación y población de la base de datos
 
 - Se creó la base de datos `transito_portuario` utilizando SQLite y SQLAlchemy.
