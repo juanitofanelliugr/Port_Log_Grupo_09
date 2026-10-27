@@ -1,5 +1,17 @@
 ## Sprint 3
 
+### Día 7 - Base de datos vectorial con ChromaDB
+
+- Se creó la base de datos vectorial `buque_vectorial` utilizando ChromaDB y OpenCLIP.
+- Se utilizaron los identificadores `buque_id` de la base relacional.
+- Se seleccionaron imágenes del grupo `completes`.
+- Se priorizó la imagen con mayor ratio de coincidencia por buque.
+- Se excluyeron los buques sin imágenes `completes`.
+- Se utilizó ImageIO para cargar las imágenes sin emplear PIL directamente.
+- Se generaron embeddings de las imágenes mediante OpenCLIP.
+- Se implementó el cálculo de cobertura vectorial respecto de los 40 buques de la base relacional.
+
+
 ### Día 6 - Consultas SQLAlchemy
 
 - Se implementaron consultas SQLAlchemy sobre la base de datos transito_portuario.
