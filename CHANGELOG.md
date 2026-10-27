@@ -1,7 +1,3 @@
-[Ejercicio 2]
-
-- Migración de las imágenes de `port_log/data/raw/imgs` a DVC.
-
 ## Sprint 3
 
 ### Día 2 - Migración de imágenes a DVC
@@ -10,8 +6,6 @@
 - Creación del archivo de seguimiento `imgs.dvc`.
 - Configuración de Supabase S3 como almacenamiento remoto.
 - Sincronización de imágenes mediante DVC.
-
-
 
 ### Día 1 - Inicio del Sprint 3
 
