@@ -1,20 +1,20 @@
 ## Sprint 3
 
-### Ejercicio 03 - Modelo lógico de datos
-
-- Se diseñó el modelo lógico de la base de datos portuaria.
-- Se definieron las entidades Buque, Radar, Movimiento y Evidencia.
-- Se establecieron las claves primarias y foráneas.
-- Se definieron las relaciones entre las entidades.
-
-
-
 ### Día 2 - Migración de imágenes a DVC
 
 - Migración de 100 imágenes de `port_log/data/raw/imgs` a DVC.
 - Creación del archivo de seguimiento `imgs.dvc`.
 - Configuración de Supabase S3 como almacenamiento remoto.
 - Sincronización de imágenes mediante DVC.
+
+
+
+### Ejercicio 03 - Modelo lógico de datos
+
+- Se diseñó el modelo lógico de la base de datos portuaria.
+- Se definieron las entidades Buque, Radar, Movimiento y Evidencia.
+- Se establecieron las claves primarias y foráneas.
+- Se definieron las relaciones entre las entidades.
 
 
 
