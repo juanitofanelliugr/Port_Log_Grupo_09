@@ -14,6 +14,8 @@
 - Configuración de Supabase S3 como almacenamiento remoto.
 - Sincronización de imágenes mediante DVC.
 
+
+
 ### Día 1 - Inicio del Sprint 3
 
 - Creación de la rama `Sprint_3` desde `Sprint_2`.
