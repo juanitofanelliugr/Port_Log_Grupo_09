@@ -1,5 +1,16 @@
 ## Sprint 3
 
+### Día 4 - Implementación del modelo relacional
+
+- Implementación de Buque, Movimiento, Radar y Evidencia con SQLAlchemy.
+- Definición de claves primarias, foráneas y relaciones.
+- Incorporación del método __repr__ en cada modelo.
+- Implementación de la función procesar_fila_csv.
+- Validación correcta de las relaciones entre entidades.
+- Consideración del radar móvil mediante el atributo muelle de Movimiento.
+
+
+
 ### Día 3 - Modelo lógico de datos
 
 - Diseño del modelo lógico de Buque, Movimiento, Radar y Evidencia.
