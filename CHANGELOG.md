@@ -1,5 +1,15 @@
 ## Sprint 3
 
+### Día 9 - Conclusión integradora de los tres sprints
+
+- Se realizó una conclusión general del sistema desarrollado durante los tres sprints.
+- Se explicó cómo se integraron los registros portuarios, las evidencias fotográficas y las bases de datos.
+- Se destacó la ventaja de ChromaDB y OpenCLIP frente al uso exclusivo de OCR.
+- Se identificaron limitaciones relacionadas con la calidad de las imágenes y las asociaciones entre buques y evidencias.
+- Se propusieron mejoras para una posible implementación real en el Puerto de Rosario.
+- Se concluyó que el sistema permite facilitar el seguimiento de buques y el análisis de infracciones portuarias.
+
+
 ### Día 8 - Búsqueda de buques por imagen
 
 - Se implementó la función `buscar_buque_por_imagen`.
