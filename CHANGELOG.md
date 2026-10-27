@@ -1,5 +1,17 @@
 ## Sprint 3
 
+### Día 8 - Búsqueda de buques por imagen
+
+- Se implementó la función `buscar_buque_por_imagen`.
+- Se utilizó OpenCLIP para generar embeddings de imágenes.
+- Se consultó ChromaDB para identificar el buque más similar.
+- Se recuperaron los datos del buque desde la base relacional mediante SQLAlchemy.
+- Se incluyeron todos sus movimientos y evidencias asociadas.
+- Se retornó la información completa en formato diccionario.
+- Se verificó el funcionamiento con el buque B-031, recuperando 9 movimientos.
+- Se identificaron inconsistencias previas en la asociación de algunas evidencias con las matrículas.
+
+
 ### Día 7 - Base de datos vectorial con ChromaDB
 
 - Se creó la base de datos vectorial `buque_vectorial` utilizando ChromaDB y OpenCLIP.
